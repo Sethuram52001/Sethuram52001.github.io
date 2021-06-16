@@ -1,0 +1,12 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/Coursera_Logo.png": "static/Coursera_Logo-c66dd69b30a763a3515732f843cc684f.png",
+  "static/HackerRank_Logo.png": "static/HackerRank_Logo-eab675a51239a438321a98ffd45bcbd2.png",
+  "static/Harry-Potter-Wiki.jpeg": "static/Harry-Potter-Wiki-a2d13dd9478584d3fc9a5735978b9aaf.jpeg",
+  "static/MongoDB_Logo.jpg": "static/MongoDB_Logo-e6a669fa7139c32284d251d8209564cb.jpg",
+  "static/Pathfinding-Visualizer.jpeg": "static/Pathfinding-Visualizer-eea6eeda8a163b5b592ea88c05cbed75.jpeg",
+  "static/Sorting-Visualizer.jpeg": "static/Sorting-Visualizer-7169de130b4b7d47622922d7b2024e3e.jpeg",
+  "static/TSF.png": "static/TSF-dc9663df990f6d0fa978b8b4f3c508f4.png",
+  "static/Trello-Clone.jpeg": "static/Trello-Clone-62a92b91600bc6e8129c6e326ed6c593.jpeg"
+}
