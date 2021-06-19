@@ -1,0 +1,46 @@
+{
+  "hash": "f81e10dfe9d06cb0f3eb",
+  "publicPath": "/",
+  "outputPath": "/home/sethuram/Desktop/Web-Dev/My Projects/portfolio/public",
+  "assetsByChunkName": {
+    "main": [
+      "render-page.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "assets by status",
+      "cached": true,
+      "filteredChildren": 10,
+      "size": 3315912
+    }
+  ],
+  "namedChunkGroups": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        {
+          "name": "render-page.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 9,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "main",
+      "files": [
+        "render-page.js"
+      ]
+    }
+  ]
+}
