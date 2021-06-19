@@ -1,5 +1,5 @@
 {
-  "hash": "f81e10dfe9d06cb0f3eb",
+  "hash": "de46f53b08b06066e5ee",
   "publicPath": "/",
   "outputPath": "/home/sethuram/Desktop/Web-Dev/My Projects/portfolio/public",
   "assetsByChunkName": {
@@ -12,7 +12,7 @@
       "type": "assets by status",
       "cached": true,
       "filteredChildren": 10,
-      "size": 3315912
+      "size": 3317193
     }
   ],
   "namedChunkGroups": {
